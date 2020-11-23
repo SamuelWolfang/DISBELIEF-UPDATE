@@ -1,1 +1,6 @@
-{"latest":"1.01b","link":"https://raw.githubusercontent.com/SoupSam02/DISBELIEF-UPDATE/master/update.zip","name":"OPEN THIS - Disbelief Update.zip","emergency":" "}
+{
+  "latest":"1.01b",
+  "link":"https://raw.githubusercontent.com/SoupSam02/DISBELIEF-UPDATE/master/update.zip",
+  "name":"OPEN THIS - Disbelief Update.zip",
+  "emergency":"
+}
