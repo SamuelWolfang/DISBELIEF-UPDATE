@@ -1,6 +1,6 @@
 {
   "latest":"1.01d",
-  "link":"https://raw.githubusercontent.com/SoupSam02/DISBELIEF-UPDATE/master/update.zip",
+  "link":"https://github.com/SoupSam02/DISBELIEF-UPDATE/raw/master/update.zip",
   "name":"OPEN THIS - Disbelief Update.zip",
   "emergency":"Currently working out issues with the \nupdater, please be patient."
 }
