@@ -1,6 +1,6 @@
 {
-  "latest":"1.01d",
-  "link":"https://github.com/SoupSam02/DISBELIEF-UPDATE/raw/master/update.zip",
+  "latest":"1.01d [Rev 1]",
+  "link":"https://github.com/SoupSam02/DISBELIEF-UPDATE/releases/download/v1.01d/update.zip",
   "name":"OPEN THIS - Disbelief Update.zip",
-  "emergency":"Currently working out issues with the \nupdater, please be patient."
+  "emergency":"If download progress loops, the update has \n already completed. In this case, check your \nsave data directory for the updated content."
 }
